@@ -19,7 +19,7 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
-  <a href="(https://github.com/StefaniaAyelen)"><img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,mysql,mongodb,vscode,git,github"></a>
+  <a href="https://github.com/StefaniaAyelen"><img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,mysql,mongodb,vscode,git,github"></a>
 </p>
 
 
